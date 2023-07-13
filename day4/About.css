@@ -1,0 +1,8 @@
+.ab{
+    background-image: url("MobilePe_about.svg");
+    background-repeat: no-repeat;
+    background-position:center;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}

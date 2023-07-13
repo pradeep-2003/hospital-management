@@ -1,0 +1,7 @@
+.service{
+    background-image: url(mobile-recharge.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}

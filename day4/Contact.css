@@ -1,0 +1,11 @@
+.c{
+    background-image: url(Contact_u);
+    background-size: cover;
+    height: vh;
+    width:100vw;
+}
+.co{
+    background-color: grey;
+    width:60vw;
+    height: 60vh;
+}
